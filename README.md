@@ -31,5 +31,7 @@ https://gist.github.com/vijaykumardevireddy/c10f87800fea3ae117305b998eba34ac
 
 ![image](https://user-images.githubusercontent.com/84453029/190923292-b9b274db-ead4-4ec1-afff-409eb5eecfb4.png)
 
+### Please find the below document of Adobe Data Layer Builder Version 1.0 functionalities
 
+[Adobe Data Layer Builder V1.0 Functionalities Documentation.docx](https://github.com/vijaykumardevireddy/Adobe-Data-Layer-Builder/files/9615964/Adobe.Data.Layer.Builder.V1.0.Functionalities.Documentation.docx)
 
