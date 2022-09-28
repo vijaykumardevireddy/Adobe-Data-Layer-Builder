@@ -35,4 +35,7 @@ https://gist.github.com/vijaykumardevireddy/c10f87800fea3ae117305b998eba34ac
 
 [Adobe.Data.Layer.Builder.V1.0.Functionalities.Documentation.docx](https://github.com/vijaykumardevireddy/Adobe-Data-Layer-Builder/files/9646602/Adobe.Data.Layer.Builder.V1.0.Functionalities.Documentation.docx)
 
+### License
+See [MIT License](https://github.com/vijaykumardevireddy/Adobe-Data-Layer-Builder/blob/main/LICENSE)
+
 
